@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Cheikh Sidi Taher Moussa Kane
 
-<!--
-**cheikhdrex/cheikhdrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Développeur Web Full-Stack junior  
+💻 Passionné par le HTML, CSS, JavaScript, PHP, ReactJS, Angular, MySQL  
+🌍 Basé en Mauritanie, ouvert aux projets à l'international  
+📚 Je développe des projets pratiques : e-commerce, e-learning, facturation  
+📩 Contact : cheikhdrex@gmail.com  
 
-Here are some ideas to get you started:
+## 🔧 Mes projets récents
+- ✅ [Plateforme E-learning](https://github.com/cheikhdrex/elearning)
+- 🛒 [Site E-commerce](https://github.com/cheikhdrex/ecommerce)
+- 📄 [Système de facturation](https://github.com/cheikhdrex/facturio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 📌 N'hésitez pas à consulter mes projets et me contacter pour toute collaboration.
+
